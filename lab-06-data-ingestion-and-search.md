@@ -80,7 +80,12 @@ A subset of the data is also available in the `data` directory of this repositor
 
 ### Task 1: Project Setup
 
-Start by asking the AI to help you set up the project structure. Example prompt:
+There are two approaches to setting up the project.
+
+1. Use Spring Initializr to create the project, download the zip file and open it in your IDE. You can ask the AI to help you with this.
+2. Use AI to generate the project structure.
+
+I would probably suggest starting with option 1 and then using the AI to help you set up the project structure.
 
 ```
 I need to create a Spring Boot application for processing astronomical data.
@@ -88,7 +93,7 @@ The application needs to:
 - Use Spring Boot 3.x
 - Include dependencies for XML processing, JPA, and PostgreSQL
 - Have a basic project structure for a data ingestion service and REST API
-Can you help me create the pom.xml and main application class?
+Can you help me use Spring Initializr to create the project?
 ```
 
 ### Task 2: Data Model Creation
