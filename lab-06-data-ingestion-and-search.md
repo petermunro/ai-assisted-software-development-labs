@@ -73,6 +73,8 @@ The data for this lab is available from here:
 
 https://we.tl/t-rFVE7gcTzG
 
+A subset of the data is also available in the `data` directory of this repository.
+
 
 ## Lab Tasks
 
